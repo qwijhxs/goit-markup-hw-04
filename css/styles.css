@@ -91,7 +91,7 @@ a {
 
 .header-menu-link:hover,
 .header-menu-link:focus {
-  color: #007bff;
+  color: #404bbf;
 }
 
 .header-menu-link.active {
@@ -130,7 +130,7 @@ a {
 
 .header-address-link:hover,
 .header-address-link:focus {
-  color: #007bff;
+  color: #404bbf;
 }
 
 .footer {
@@ -206,7 +206,7 @@ a {
 
 .footer-social-link:hover,
 .footer-social-link:focus {
-  background-color: #007bff;
+  background-color: #31d0aa;
 }
 
 .features-icon {
@@ -251,7 +251,7 @@ a {
 
 .nav-link:hover,
 .nav-link:focus {
-  color: #007bff;
+  color: #404bbf;
 }
 
 .contacts {
@@ -277,6 +277,7 @@ a {
   background-position: center;
   background-size: cover;
   background-color: #2E2F42;
+  background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
 }
 
 .hero-container {
@@ -320,7 +321,7 @@ a {
 
 .hero-button:hover,
 .hero-button:focus {
-  background-color: #007bff;
+  background-color: #404bbf;
 }
 
 .team {
@@ -577,12 +578,12 @@ img {
 
 .social-link:hover,
 .social-link:focus {
-  background-color: #007bff ;
+  background-color: #404bbf;
 }
 
 .footer .social-link:hover,
 .footer .social-link:focus {
-  background-color: #007bff;
+  background-color: #404bbf;
 }
 
 .features-icon-container {
